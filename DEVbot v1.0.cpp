@@ -1,4 +1,4 @@
-// For question list , See the DEVbot v1.0 Questions file
+// For question list , See the DEVbot v1.0 Questions file , they are case sensetive
 // Made with love by Saksham Saxena
 # include <iostream>
 using namespace std; 
