@@ -1,0 +1,22 @@
+1Q:Who proggramed you
+2Q:Tell me the Prime Minister of India
+3Q:Tell me about yourself
+4Q:Divide 0 by 0
+5Q:Open calculator
+6Q:Tell me the date
+7Q:Whats your name
+8Q:Tell me the time
+9Q:Set a timer
+10Q:hello
+11Q:I am bored
+12Q:tell me a joke
+13Q:you are awesome
+14Q:thanks
+15Q:why dont you speak
+16Q:close your eyes
+17Q:Open Google
+18Q:Open Windows Explorer
+19Q:Open notepad
+20Q:Open Sticky notes
+21Q:Open Paint
+22Q:Open Sound Recorder
