@@ -1,5 +1,5 @@
-// For question list , See the DEVbot v1.0 Questions file , they are case sensetive
-// Made with love by Saksham Saxena
+// For question list , See the DEVbot v1.0 Q uestions file , they are case sensetive
+// Made with love by Saksham Saxena 
 # include <iostream>
 using namespace std; 
 #include <windows.h>
