@@ -107,7 +107,7 @@ int main (void)
 
   SetConsoleTextAttribute(hConsole, FOREGROUND_GREEN | FOREGROUND_INTENSITY);
   
-  cout << "	 		DDDDD      EEEEEE   V     V \n 			D    D     E        V     V \n 			D    D     E        V     V\n 			D    D     EEEEEE   V     V  \n 			D    D     E        V     V \n 			D    D     E         V   V \n 			DDDDD      EEEEEE      V  \n\n  		 THE INDIAN ARTIFICIAL INTELEGENCE\n \n";
+  cout << "	 		DDDDD      EEEEEE   V     V \n 			D    D     E        V     V \n 			D    D     E        V     V\n 			D    D     EEEEEE   V     V  \n 			D    D     E        V     V \n 			D    D     E         V   V \n 			DDDDD      EEEEEE      V  \n\n \n \n";
   SetConsoleTextAttribute(hConsole, saved_colors);
 system ("pause");
 system ("cls");
