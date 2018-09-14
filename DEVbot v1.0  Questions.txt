@@ -1,4 +1,5 @@
 These are the questions that DEVbot v1.0 suppuorts.
+Q17 to Q22 will work only on an computer.
 1Q:Who proggramed you
 2Q:Tell me the Prime Minister of India
 3Q:Tell me about yourself
